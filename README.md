@@ -2,6 +2,8 @@
 
 **OpenµSim** es un software de código abierto diseñado para ejecutar simulaciones rápidas y accesibles de redes microfluídicas, calculando la distribución de presión y los caudales en dispositivos compuestos por canales y cámaras. Desarrollado en el **LabµFab** (Universidad Nacional de Villa Mercedes), este simulador busca mitigar los altos requerimientos computacionales asociados a las simulaciones CFD tradicionales, democratizando el acceso a herramientas de validación de diseño en bioingeniería y fomentando la educación experimental.
 
+![Captura de pantalla de OpenµSim](imagenes/simulation.png)
+
 ## Características Principales
 
 * **Modelo Matemático de Alta Precisión:** El núcleo de cálculo se fundamenta en un modelo de resistencia hidráulica. Emplea la solución analítica completa para el flujo de Hagen-Poiseuille en canales rectangulares (basado en Bruus, 2008, Eq. 2.45), lo que garantiza exactitud para cualquier relación de aspecto operando dentro del régimen laminar.
