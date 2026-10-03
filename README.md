@@ -31,3 +31,9 @@ El proyecto agradece especialmente al equipo de desarrollo de *Flui3D* (Ulf Schl
 ## Licencia
 
 El código fuente y la documentación se distribuyen bajo la licencia **MIT**. El software se proporciona "tal cual", sin garantías de ningún tipo; su uso corre bajo la propia responsabilidad del usuario.
+
+## Documentación
+
+Para obtener instrucciones detalladas sobre la instalación, configuración y uso del simulador, por favor consulta nuestra documentación oficial:
+
+[📚 Leer la Documentación de OpenµSim](https://bookstack.labufab.xyz/books/opensim)
